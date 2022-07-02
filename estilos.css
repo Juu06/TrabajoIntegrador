@@ -13,11 +13,8 @@
 }
 
 #carouselExampleControls img {
-    filter:brightness(0.4);
-    
+    filter:brightness(0.4);    
 }
-
-
 
 .carousel-caption {
     position:absolute; 
@@ -37,5 +34,4 @@
 #footer {
     background-color: #214d67;
     color: white;
-
 }
