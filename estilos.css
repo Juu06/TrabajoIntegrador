@@ -1,0 +1,38 @@
+#header img {
+    width: 100px;
+}
+
+#header {
+    font-size:medium;
+}
+
+#carouselExampleControls img {
+    filter:brightness(0.4);    
+}
+
+.carousel-caption {
+    position:absolute; 
+    right: 5%;
+    top: 325px; 
+    bottom: 0px;
+    left: 50%;
+    z-index: 1;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    color: #fff;
+    text-align: right;
+    font-size:larger;
+
+}
+
+#texto {
+    background-color:dimgray;
+    color:white;
+    font-size:medium;
+}
+
+#footer {
+    background-color: #214d67;
+    color: white;
+
+}
