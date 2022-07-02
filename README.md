@@ -1,5 +1,5 @@
 # TrabajoIntegrador
-![Image text] (https://github.com/Juu06/Bootstrap/issues/3#issue-1209239448) 
+![Image text] (https://github.com/Juu06/TrabajoIntegrador/issues/1#issue-1291996641) 
 ![Image text] ()
 ![Image text] ()
 ![Image text] ()
