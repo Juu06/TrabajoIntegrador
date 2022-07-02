@@ -1,6 +1,6 @@
 # TrabajoIntegrador
 ![Image text] (https://github.com/Juu06/TrabajoIntegrador/issues/1#issue-1291996641) 
-![Image text] ()
+![Image text] (https://github.com/Juu06/TrabajoIntegrador/issues/2#issue-1291998219)
 ![Image text] ()
 ![Image text] ()
 ![Image text] ()
